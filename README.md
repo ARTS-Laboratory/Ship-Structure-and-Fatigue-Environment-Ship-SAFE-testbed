@@ -2,7 +2,7 @@
 A tested for integrated ship structural and fatigue testing
 
 <p align="center">
-<img src="media/testbed.png" alt="drawing" width="800"/>
+<img src="media/testbed.jpg" alt="drawing" width="800"/>
 </p>
 <p align="center">
 The Ship Structure and Fatigue Environment (Ship SAFE) testbed develoepd at the UofSC
